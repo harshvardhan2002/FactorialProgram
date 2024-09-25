@@ -1,0 +1,7 @@
+C:\Users\Harshvardhan Gupta\source\repos\FactorialProgram\bin\Debug\FactorialProgram.exe.config
+C:\Users\Harshvardhan Gupta\source\repos\FactorialProgram\bin\Debug\FactorialProgram.exe
+C:\Users\Harshvardhan Gupta\source\repos\FactorialProgram\bin\Debug\FactorialProgram.pdb
+C:\Users\Harshvardhan Gupta\source\repos\FactorialProgram\obj\Debug\FactorialProgram.csproj.AssemblyReference.cache
+C:\Users\Harshvardhan Gupta\source\repos\FactorialProgram\obj\Debug\FactorialProgram.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\FactorialProgram\obj\Debug\FactorialProgram.exe
+C:\Users\Harshvardhan Gupta\source\repos\FactorialProgram\obj\Debug\FactorialProgram.pdb
